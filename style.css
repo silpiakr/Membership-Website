@@ -147,3 +147,41 @@ a{
 	 color:#FFE4E1;
 	background-color:#CD853F;
 }
+#end{
+	display:flex;
+	background-color:#AFEEEE; 
+	width:auto;
+	border:5px solid brown;
+}
+.four h1{
+	color:#20B2AA;
+	text-decoration:underline;
+	font-size:30px;
+	text-align:center;
+}
+.four{
+	width:700px;
+	height:400px;
+	text-align:justify;
+	margin:60px 10px 0px 40px;
+	padding:30px;
+}
+.four p{
+	font-size:20px;
+	margin-bottom:60px;
+}
+.five img{
+	width:420px; 
+	height:460px;
+	margin:40px 20px 0px 40px;
+}
+footer{
+	color:white;
+	background-color:gray;
+	text-align:center;
+	height:100px;
+}
+footer p{
+	margin:auto;
+	padding:40px;
+}
