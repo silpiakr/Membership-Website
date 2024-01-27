@@ -1,0 +1,45 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	margin:0px;
+}
+#one{
+	display:flex;
+	background-color:#20B2AA;
+}
+#one h1{
+	font-size:40px;
+}
+.pic img{
+	width:370px;
+	height:400px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.self{
+	color:white;
+	width:400px;
+	height:400px;
+	text-align:center;
+	text-transform:capitalize;
+	margin-top:40px;
+	margin-bottom:20px;
+}
+.det{
+	color:white;
+	width:400px;
+	height:400px;
+	text-align:center;
+	text-transform:capitalize;
+	margin-top:40px;
+	margin-bottom:20px;
+}
+span{
+	color: royalblue;
+}
+.box{
+	display:flex;
+	border:solid white;
+	width:900px;
+	height:100px;
+	margin:auto;
+}
