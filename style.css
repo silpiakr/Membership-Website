@@ -2,11 +2,11 @@ body{
 	font-family: 'Poppins', sans-serif;
 	margin:0px;
 }
-#one{
+.one{
 	display:flex;
 	background-color:#20B2AA;
 }
-#one h1{
+.one h1{
 	font-size:40px;
 }
 .pic img{
@@ -43,7 +43,7 @@ span{
 	height:100px;
 	margin:auto;
 }
-#two{
+.two{
 	border:solid #20B2AA;
 	width:1000px;
 	height:150px;
@@ -65,7 +65,7 @@ span{
 	border-radius:20px;
 	margin-top:5px;
 }
-#word h1{
+.word h1{
 	text-align:center;
 	color:teal;
 	font-size:50px;
@@ -73,7 +73,7 @@ span{
 	margin-bottom:100px;
 	text-shadow: 2px 2px 10px #d48176;
 }
-#three{
+.three{
 	background-color:white;
 	margin:40px 40px 40px 40px;
 	display:flex;
@@ -127,7 +127,7 @@ span{
 	height:80px;
 	margin-top:25px;
 }
-#word{
+.word{
 	width:700px;
 	height:50px;
 	margin:auto;
@@ -147,11 +147,11 @@ a{
 	 color:#FFE4E1;
 	background-color:#CD853F;
 }
-#end{
+.end{
 	display:flex;
 	background-color:#AFEEEE; 
 	width:auto;
-	border:5px solid brown;
+	
 }
 .four h1{
 	color:#20B2AA;
